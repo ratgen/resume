@@ -2,6 +2,7 @@
 
 \usepackage[utf8]{inputenc}
 \usepackage[danish]{babel}
+\usepackage[T1]{fontenc}
 \usepackage{float}
 \usepackage{fancyhdr}
 \usepackage{amsmath}
@@ -18,11 +19,10 @@
 
 \newcommand{\tabitem}{~~\llap{\textbullet}~~}
 
-\newcommand{\resumeSubheading}[5]{
+\newcommand{\resumeSubheading}[4]{
   \noindent\begin{tabular*}{0.98\textwidth}[t]{l@{\extracolsep{\fill}}r}
-    \textbf{#1} & #2 \\ \vspace{-3pt}
-    \textit{\small#3} & \textit{\small #4} \\
-    {\small #5}
+    \textbf{#1} & #2 \\ \vspace{-3pt} 
+    \textit{\small#3} & \textit{\small #4} 
   \end{tabular*}\vspace{7pt}
 }
 
@@ -41,16 +41,52 @@
 \noindent{\rule[0.3cm]{\textwidth}{0.4pt}}
 
 \resumeSubheading{University of Southern Denmark}{}{Software Engineering}{Sep.
-2020 -- Jul. 2022}{}
+2020 -- Jul. 2022}\\\vspace{0.25cm}
+{\indent\small Currently taking these courses:}
+  \vspace{-0.3cm}
+  {\small 
+  \begin{itemize}
+  \setlength{\itemsep}{-1pt}
+    \item Statistical Data Analysis
+    \item Human Computer Interaction
+    \item Semesterproject: Interactive Distributed Software Systems
+      \subitem Creating a media player using HTML and JavaScript, working with
+      docker images and kubernetes. Interacting with other teams through APIs.
+\end{itemize}} \vspace{0.3cm}
+
 
 \resumeSubheading{University of Southern Denmark}{}{Computer Science}{Sep. 2017
--- Mar. 2020}{}
+-- Mar. 2020}\\\vspace{0.25cm} 
+{\indent\small Completed 130 ECTS towards a Computer Science bachelors degree,
+completed courses in:}
+  \vspace{-0.3cm}
+  {\footnotesize 
+  \begin{itemize}
+  \setlength{\itemsep}{-1pt}
+    \item Discrete Methods for Computer Science
+    \item Introduction to Programming
+    \item Algorithms and Data Structures
+    \item Database Design and Programming
+    \item Concurrent Programming
+    \item Networks and Security
+    \item Computer architecture and system programming
+    \item Linear algebra with applications
+    \item Operating Systems
+    \item Data mining and machine learning
+    \item Formal Languages and Data Processing
+    \item Software Engineering
+\end{itemize}}
+\vspace{0.3cm}
 
 \resumeSubheading{Odense Tekniske Gymnasium}{}{Higher Technical
-Examination}{Aug. 2014 -- Jul. 2017}{
-    \tabitem{Specialized Study Area: Communication/IT A, Design B} \\
-    \tabitem{Technical Science: Technical Science A, Electricity}
-}
+Examination}{Aug. 2014 -- Jul. 2017}
+{\small \begin{itemize}\vspace{-0.25cm}
+  \setlength{\itemsep}{-1pt}
+  \item Specialized study area: Communication/IT A, Design B
+  \item Technical science: Technical Sciences A, Electricity
+    \subitem\footnotesize Worked with the PIC microcontroller.
+\end{itemize}}
+
 
 \vspace{0.5cm}
 
