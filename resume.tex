@@ -21,9 +21,13 @@
 
 \newcommand{\resumeSubheading}[4]{
   \noindent\begin{tabular*}{0.98\textwidth}[t]{l@{\extracolsep{\fill}}r}
-    \textbf{#1} & #2 \\ \vspace{-3pt} 
-    \textit{\small#3} & \textit{\small #4} 
+    \noindent \textbf{#1} & #2 \\ \vspace{-3pt} 
+    \noindent \textit{\small#3} & \textit{\small #4} 
   \end{tabular*}\vspace{7pt}
+}
+
+\newcommand{\listitem}[2]{
+  {\small{\tabitem{#1}}} & {\small\tabitem{#2}}\\
 }
 
 \begin{document}
@@ -37,7 +41,7 @@
   \href{https://www.linkedin.com/in/peter-ratgen-a1236529/}{\underline{linkedin}}
 \end{center}
 
-\noindent\large{\scshape{About - Personal Details}} \newline
+\noindent\large{\scshape{About - Personal}} \newline
 \noindent{\rule[0.3cm]{\textwidth}{0.4pt}}
 {\normalsize Based in Odense, 22 years old. I am driven, and love to dive deep
   into projects. I am passionate about learning new usable skills, and
@@ -49,7 +53,7 @@
 \noindent{\rule[0.3cm]{\textwidth}{0.4pt}}
 
 \resumeSubheading{University of Southern Denmark}{}{Software Engineering}{Sep.
-2020 -- Jul. 2022}\\\vspace{0.25cm}
+2020 -- Jun. 2022}\\\vspace{0.25cm}
 {\indent\small Currently taking these courses:}
   \vspace{-0.3cm}
   {\small 
@@ -87,50 +91,55 @@ completed courses in:}
 \vspace{0.3cm}
 
 \resumeSubheading{Odense Tekniske Gymnasium}{}{Higher Technical
-Examination (HTX)}{Aug. 2014 -- Jul. 2017}
+Examination (HTX)}{Aug. 2014 -- Jun. 2017}
 {\small \begin{itemize}\vspace{-0.25cm}
   \setlength{\itemsep}{-1pt}
   \item Specialized study area: Communication/IT A, Design B
     \subitem Worked with graphic design, and communication in general.
+
   \item Technical science: Technical Sciences A, Electricity
     \subitem\footnotesize Worked with the PIC microcontroller.
 \end{itemize}
 } \vspace{0.5cm}
 
+\newpage
 \noindent\large{\scshape{Acquired Skills}} \newline
 \noindent{\rule[0.3cm]{\textwidth}{0.4pt}}
 
-{\noindent\small\textbf{Languages:} \newline
-Languages that I have used previously
-\begin{itemize}\setlength{\itemsep}{-1pt}
-    \item Python
-    \item Java
-    \item Lua
-    \item JavaScript
-    \item Postgres SQL
-    \item Lua
-    \item HTML/CSS
-    \item C
-  \end{itemize}
-}
-{\noindent\small\textbf{Tools:} 
-\begin{itemize}\setlength{\itemsep}{-1pt}
-    \item Vim
-    \item Git
-    \item Command Line (Linux/Mac)
-    \item Bash
-    \item Docker
-    \item Kubernetes
-    \item Apache
-    \item Postfix, Dovecot
-    \item Node, Express
-  \end{itemize}
 
+  \noindent\begin{tabular*}{0.62\paperwidth}[t]{l@{\extracolsep{\fill}}l}
+    \textbf{Languages} & \textbf{Tools} \\ 
+    \listitem{Python}{Vim}
+    \listitem{Java}{Git}
+    \listitem{Lua}{Command Line (Linux/Mac)}
+    \listitem{JavaScript}{Bash}
+    \listitem{Postgres SQL}{Dock}
+    \listitem{Lua}{Kubernetes}
+    \listitem{HTML/CSS}{Apache}
+    \listitem{C}{Postfix, Dovecot}
+                       & \small{\tabitem{Node, Express}} \\
+                       & \small{\tabitem{LaTeX}} \\
+                      & \\
+    \textbf{Misc. tools} & \textbf{Languages}  \\
+    \small{\tabitem{Adobe Photoshop}} & \small{\tabitem{Danish, primary}} \\
+    \small{\tabitem{Adobe Illustrator}} & \small{\tabitem{English}}\\
+    \small{\tabitem{Adobe InDesign}} & \small{\indent Written and spoken} \\
+
+  \end{tabular*}\vspace{7pt}
 \vspace{0.5cm}
 
-\noindent\large{\scshape{Current Job}} \newline
+\noindent\large{\scshape{Previous Jobs}} \newline
 \noindent{\rule[0.3cm]{\textwidth}{0.4pt}}
-\noindent\resumeSubheading{Boogies}{}{Cleaner}{Sep. 2018 -- Present}
+\resumeSubheading{Boogies}{}{Cleaner}{Sep. 2018 -- Present}
+\vspace{0.3cm}
 
+\resumeSubheading{Design Danmark}{}{Graphic Designer}{Feb. 2016 -- May 2017}\\
+\indent{\small Created menu design for prominent café in Odense, and implemented it in
+Adobe InDesign. Created logos for clients to consider in Adobe Illustrator.}
+\vspace{0.3cm}
 
+\resumeSubheading{Dreamsprit Photography}{}{Photo Editor/Co-owner}{Mar. 2015 --
+Jun. 2017}\\
+\indent{\small Photography project in free time, editing photos shot in Adobe
+Photoshop, miscellaneous graphical tasks}
 \end{document}
