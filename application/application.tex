@@ -1,0 +1,40 @@
+\documentclass[11pt]{article}
+
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+\usepackage[T1]{fontenc}
+\usepackage{float}
+\usepackage{fancyhdr}
+\usepackage{amsmath}
+\usepackage{color}
+\usepackage{listings}
+\usepackage{graphicx}
+\usepackage{lastpage}
+\usepackage{enumitem}
+\usepackage[a4paper, top = 1in, bottom = 1in, left=1in,right=1in]{geometry}
+\usepackage{tikz}
+\usepackage{tikz-qtree}
+\usepackage{listingsutf8}
+\usepackage[hidelinks]{hyperref}
+
+\newcommand{\tabitem}{~~\llap{\textbullet}~~}
+
+\newcommand{\resumeSubheading}[4]{
+  \noindent\begin{tabular*}{0.98\textwidth}[t]{l@{\extracolsep{\fill}}r}
+    \noindent \textbf{#1} & #2 \\ \vspace{-3pt} 
+    \noindent \textit{\small#3} & \textit{\small #4} 
+  \end{tabular*}\vspace{7pt}
+}
+
+\newcommand{\listitem}[2]{
+  {\small{\tabitem{#1}}} & {\small\tabitem{#2}}\\
+}
+
+\title{Application}
+\author{Peter Heilbo Ratgen}
+\date{\today}
+
+\begin{document}
+\maketitle
+
+\end{document}
