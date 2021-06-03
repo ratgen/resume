@@ -1,0 +1,155 @@
+
+
+
+
+
+
+
+
+
+
+
+
+  Peter Heilbo Ratgen
+ 
+  
+  31330916 
+  mailto:peter@pratgen.dkpeter@pratgen.dk 
+  https://github.com/PeterRatgen github 
+  https://pratgen.dkpratgen.dk 
+  https://www.linkedin.com/in/peter-ratgen-a1236529/linkedin
+
+Om mig [0.3cm]
+
+
+22 årig Software Engineering studerende, med stor passion for
+udvikling af især back-end projekter søger studierelevant arbejde. Med tidligere
+erfaring som datalogi studerende, har jeg en bred vifte af kompetencer inden for
+både datalogi og software engineering, 
+
+Jeg er en 22 årig Software Engineering studerede, med stor interesse for
+udvikling af især back-end. Jeg har en stor passion for dette område, og er især
+drevet af mulighederne for at udvikle og lære nye færdigheder. Jeg finder det
+meget interessant at arbejde indenfor dette område, og bruger ofte tid på at
+følge med i udvikling af nye spændende værktøjer, som kan bidrage til at min
+produktivitet effektiviseres. 
+
+Jeg er en 22 årig Software Engineering studerende, samt tidligere Datalogi
+studerende, bor i Odense. Jeg er en drevet person, der elsker at dykke ned i
+projekter, om det er projekter på universitet eller mine egne. Jeg har en stor
+interesse i at lære nye færdigheder, samt at øge min produktivitet igennem nye
+og spændende værktøjer. Jeg er særligt interesseret i at arbejde med back-end,
+samt at arbejde med Linux.
+
+
+Uddannelse [0.3cm]
+
+Syddansk UniversitetSoftware EngineeringSep.
+2020 - Jun. 2022
+
+Afsluttede kurser
+  
+  
+  
+      Statistisk datanalyse
+    Human Computer Interaction
+    Semesterprojekt: Interaktive distribuerede software systemer:
+      Kreeret en medieafspiller ved brug af HTML, CSS og JavaScript.
+      Arbejder med Docker images og Kubernetes. Interaktion med andre hold
+      igennem APIs.
+ 
+Currently taking these courses:
+  
+  
+      Kunstig Intelligens
+    Komponentbaserede systemer
+    Semesterprojekt: Intelligente softwaresystemer
+      Projekt omkring et komponentbaseret 2D spil, anvendelse af AI til
+      stifinding, herunder har der også været fokus på valg datastrukturer.
+      Skrevet i Java.
+    Semesterprojekt: Udvikling af softwaresystemer:
+      Projektet omhandler et krediteringssystem baseret på en case. I
+      projektet er der anvendt objekt-orienterede principper, og krav-drevet
+      software engineering.
+   
+
+
+
+
+Syddansk UniversitetDatalogiSep. 2017
+- Mar. 2020
+ 
+Fuldført 130 ECTS som en del af en bachelorgrad i datalogi,
+fuldført kurser i:
+  
+  
+  
+      Diskrete metoder til datalogi
+    Introduktion til programmering
+    Algoritmer og datastrukturer
+    Databasedesign og programmering
+    Concurrent Programming
+    Netværk og sikkerhed
+    Computerarkitektur og systemprogrammering
+    Linær algebra med anvendelser
+    Operativsystemer 
+    Data mining and machine learning
+    Formelle sprog og dataprocesserring 
+    Software Engineering
+
+
+
+Odense Tekniske GymnasiumHøjere Teknisk Eksamen (HTX)Aug. 2014 - Jun. 2017
+
+    Studieretning Kommunikation/IT A, Design B
+    Arbejdet med grafisk design, og kommunikation.
+  Teknikfag: Teknikfag A: Design og produktion, el A
+    Arbejdet med PIC microcontrolleren.
+ 
+
+Færdigheder [0.3cm]
+
+
+  tabular*0.62[t]l@l
+    Programmeringssprog & Værktøjer 
+ 
+    PythonVim
+    JavaGit
+    JavaScriptNode.js, Express
+    SQLDocker
+    BashHTML/CSS
+                       & LaTeX 
+
+                       & Apache Webserver 
+
+                      & 
+
+    Andre værktøjer & Sprog  
+
+    Adobe Photoshop & Danish, primary 
+
+    Adobe Illustrator & English
+
+    Adobe InDesign & Written and spoken 
+
+
+    
+
+
+
+Tidligere job [0.3cm]
+BoogiesRengøringSep. 2018 - Nu
+
+
+Design DanmarkGrafisk DesignerFeb. 2016 - Maj 2017
+
+Kreeret design af menu til en café i Odense, implementeret i
+Adobe InDesign. Kreeret logoforslag til forskellige klienter i Adobe
+Illustrator
+
+
+Dreamsprit PhotographyRedigering/MedejerMar. 2015 -
+Jun. 2017
+
+Fritidsprojekt, hvor jeg har redigeret billeder i Adobe
+Photoshop, samt forskelligt grafisk arbejde.
